@@ -3,11 +3,11 @@ Hi  👋
 
 
 LINK 😝
-website: 
+website: https://thebugbear.com/
 
-discord: 
+discord: https://discord.gg/QQpA5snRqf
 
-twitter: 
+twitter: https://twitter.com/BugbearNFT
 
 FAQ 😷
 What is the total supply?
