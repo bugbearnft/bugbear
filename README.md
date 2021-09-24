@@ -24,6 +24,22 @@ Twitter: https://twitter.com/BugbearNFT
 Telegram: https://t.me/bugbearnft
 
 
+# Roadmap:
+### 一. Attributes metadata  reveal
+The 10000 NFTs will be updated with all their attributes and rarity rank displayed on our Github.
+
+### 二. Special Events
+We will hold many events, attract more and more people willing to hold BugBear.
+
+### 三. Merch
+Exclusive Bugbear Merch with limited edition for NFT holders.
+
+### 四. Marketplace Alpha
+Marketplace will be released for Bugbear trading.
+
+### 五. More
+More details coming soon...
+
 
 # FAQ
 ### What is this? 
