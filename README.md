@@ -6,31 +6,40 @@
   <p>👋 Welcome to thebugbear.com!</p>
 </h1>
 
-Bugbear is a collection of 10,000 pixel bear NFTs-unique digital collectibles living on the blockchain. 
+BugBear is a collection of 10,000-pixel bear NFTs-unique digital collectibles living on the blockchain. 
 
-Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than everyone else. We also will prepare a VIP surprise gift package for Bugbear NFT holder .
+An NFT collection of Total 10,000 unique pixel bears, which are aborigines of the CryberZoo-a crypto Metaverse waited you to explore.  Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than everyone else. We also will prepare a VIP surprise gift package for Bugbear NFT holder
 
 #Solana #Crypto-Metaverse #Pixel Art #Rougelike
 
 # LINK
 Website: https://thebugbear.com/
 
+Github: https://github.com/bugbearnft/bugbear
+
 Discord: https://discord.gg/QQpA5snRqf
 
 Twitter: https://twitter.com/BugbearNFT
 
+Telegram: https://t.me/bugbearnft
+
+
+
 # FAQ
-### what is the total supply?
+### What is this? 
+- Bugbear is a collection of 10,000-pixel bear NFTs-unique digital collectibles living on the blockchain. 
+- an NFT collection of Total 10,000 unique pixel bears, which are aborigines of the CryberZoo-a crypto Metaverse waited you to explore. Bugbear NFT brings you privilege to experience the CyberZoo-a crypto sandbox world, earlier than everyone else. We also will prepare a VIP surprise gift package for BugBear NFT holder
 
--  A total of 10000 Bugbear NFTs will be created.
+### When is the launch? 
+- When the following goals are accomplished:
+I. 500 Github stars; 
+II. 20000 Discord members; 
+III. 20000 Twitter followers; 
+IV. 10000 Telegram subscribers;
+V. More than 50,000 followers in total.
 
-### When is the launch?
-
--  We will launch on 
-
-### Will there be a pre-sale?
-
--  We will make sure that active community members will be rewarded.
+### What is the meaning of Bugbear? 
+- When you buy a Bugbear, you’re not simply buying an avatar or a provably rare piece of art. You are gaining membership access to a club whose benefits and offerings will increase over time. Bugbear can serve as your digital identity, and open digital doors for you. 
 
 # Join our Discord server
 
