@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bugbearNFT.svg?style=social)](https://twitter.com/BugbearNFT)
 
 <h1 align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <p><a href="https://thebugbear.com"><img alt="thebugbear logo" src="./brand/BugBear Logo" alt="thebugbear.com" width="125"></a></p>
+  <p><a href="https://thebugbear.com"><img alt="thebugbear logo" src="https://github.com/bugbearnft/bugbear/blob/main/brand/BugBear%20Logo/background.jpg" alt="thebugbear.com" width="1250"></a></p>
   <p>👋 Welcome to thebugbear.com!</p>
 </h1>
 
