@@ -57,6 +57,9 @@ V. More than 50,000 followers in total.
 ### What is the meaning of Bugbear? 
 - When you buy a Bugbear, you’re not simply buying an avatar or a provably rare piece of art. You are gaining membership access to a club whose benefits and offerings will increase over time. Bugbear can serve as your digital identity, and open digital doors for you. 
 
+### What is the whitelist premint and mint price?
+- premint is 2SOL, mint is 4 SOL
+
 # Join our Discord server
 
 share your ideas or just say hi over [on Discord](https://discord.gg/QQpA5snRqf).
